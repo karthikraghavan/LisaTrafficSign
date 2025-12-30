@@ -1,4 +1,4 @@
-# AAI521_LisaTrafficSign
+# LisaTrafficSign
 This project aims to perform automatic detection and recognition of traffic road signs. The project analyzes images and labels of road signs like Stop signs, pedestrian crossings, or speed limits and aims to recognize American types of road signs.
 
 #Dataset Analysis
